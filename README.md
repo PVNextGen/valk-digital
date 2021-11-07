@@ -1,1 +1,9 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+#Install project:
+`yarn`
+
+#Run project:
+`yarn dev` to run develop mode
+`yarn build` & `yarn start` to run env
+
+#Website
+`localhost:3000`
